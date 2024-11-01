@@ -1,0 +1,4 @@
+div.admin-shortcode-container>div.alert{padding:10px 20px;border:5px dotted #000;text-align:center;background-color:#FFF;display:inline-block}
+div.admin-shortcode-container>div.alert>p{color:#111;font-size:200%}
+div.alert.alert-info{background-color:#FFF;padding:10px 5px;margin-top:20px}
+div.alert.alert-info li>ul{margin-top:5px;margin-left:20px}

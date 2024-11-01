@@ -1,0 +1,443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-19 16:58+0100\n"
+"PO-Revision-Date: 2018-02-19 17:27+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+#: src/Simplestform/Admin.php:215
+msgid "Generali"
+msgstr ""
+
+#: src/Simplestform/Admin.php:216
+msgid "Google Analytics"
+msgstr ""
+
+#: src/Simplestform/Admin.php:217
+msgid "API"
+msgstr ""
+
+#: src/Simplestform/Admin.php:344 src/Simplestform/Admin.php:365
+#: src/Simplestform/Admin.php:390 src/Simplestform/Admin.php:826
+#: src/Simplestform/Admin.php:852 src/Simplestform/Admin.php:878
+#: src/Simplestform/Email.php:335 src/Simplestform/Email.php:342
+#: src/Simplestform/Email.php:356
+msgid "Si"
+msgstr "Yes"
+
+#: src/Simplestform/Admin.php:348 src/Simplestform/Admin.php:369
+#: src/Simplestform/Admin.php:375 src/Simplestform/Admin.php:394
+#: src/Simplestform/Admin.php:400 src/Simplestform/Admin.php:830
+#: src/Simplestform/Admin.php:856 src/Simplestform/Admin.php:882
+#: src/Simplestform/Email.php:346 src/Simplestform/Email.php:360
+msgid "No"
+msgstr ""
+
+#: src/Simplestform/Admin.php:461
+msgid "Settings"
+msgstr ""
+
+#: src/Simplestform/Admin.php:499 src/Simplestform/Email.php:313
+#: views/frontend/basic-form.php:1 views/frontend/basic-form.php:88
+msgid "Nome"
+msgstr "Name"
+
+#: src/Simplestform/Admin.php:500 src/Simplestform/Email.php:323
+#: views/frontend/basic-form.php:112
+msgid "Email"
+msgstr ""
+
+#: src/Simplestform/Admin.php:501 src/Simplestform/Admin.php:641
+msgid "Messaggio"
+msgstr "Message"
+
+#: src/Simplestform/Admin.php:502 src/Simplestform/Admin.php:619
+#: src/Simplestform/Email.php:329
+msgid "Pagina"
+msgstr "Page"
+
+#: src/Simplestform/Admin.php:503
+msgid "Privacy"
+msgstr ""
+
+#: src/Simplestform/Admin.php:504
+msgid "Privacy ART 4"
+msgstr ""
+
+#: src/Simplestform/Admin.php:505
+msgid "Privacy ART 5"
+msgstr ""
+
+#: src/Simplestform/Admin.php:506
+msgid "Data"
+msgstr ""
+
+#: src/Simplestform/Admin.php:507
+msgid "Confermato il"
+msgstr ""
+
+#: src/Simplestform/Admin.php:559
+msgid "IP conferma"
+msgstr ""
+
+#: src/Simplestform/Admin.php:579
+msgid "Data conferma email"
+msgstr ""
+
+#: src/Simplestform/Admin.php:599
+msgid "IP"
+msgstr ""
+
+#: src/Simplestform/Admin.php:661 src/Simplestform/Email.php:334
+msgid "Accettazione privacy"
+msgstr "Agree to privacy terms"
+
+#: src/Simplestform/Admin.php:681 src/Simplestform/Email.php:354
+msgid "Accettazione privacy ART 5"
+msgstr "Agree to privacy terms, ART 5"
+
+#: src/Simplestform/Admin.php:701 src/Simplestform/Email.php:340
+msgid "Accettazione privacy ART 4"
+msgstr "Agree to privacy terms, ART 4"
+
+#: src/Simplestform/Admin.php:721 src/Simplestform/Email.php:318
+#: views/frontend/basic-form.php:100
+msgid "Telefono"
+msgstr "Phone"
+
+#: src/Simplestform/Admin.php:935
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr ""
+
+#: src/Simplestform/Admin.php:938
+msgid "Aggiungi"
+msgstr ""
+
+#: src/Simplestform/Admin.php:941
+msgid "Tutte le richieste"
+msgstr ""
+
+#: src/Simplestform/Admin.php:947
+msgid "Modifica"
+msgstr ""
+
+#: src/Simplestform/Admin.php:950
+msgid "Nuovo"
+msgstr ""
+
+#: src/Simplestform/Admin.php:953
+msgid "Dettaglio"
+msgstr ""
+
+#: src/Simplestform/Admin.php:956
+msgid "Cerca"
+msgstr ""
+
+#: src/Simplestform/Admin.php:959
+msgid "Nessun risultato"
+msgstr ""
+
+#: src/Simplestform/Admin.php:962
+msgid "Nessun risultato nel cestino"
+msgstr ""
+
+#: src/Simplestform/Admin.php:965
+msgid "Genitore:"
+msgstr ""
+
+#: src/Simplestform/Admin.php:1140
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/Simplestform/Base.php:332
+msgid "La tua richiesta è stata confermata con successo. Grazie!"
+msgstr ""
+
+#: src/Simplestform/Base.php:333
+msgid ""
+"Non abbiamo trovato alcuna richiesta. Forse hai già confermato questa "
+"richiesta oppure il link è scaduto? Ricorda che devi confermare la tua "
+"richiesta entro 24h!"
+msgstr ""
+
+#: src/Simplestform/Email.php:228
+msgid "Copia della richiesta di informazioni"
+msgstr ""
+
+#: src/Simplestform/Email.php:229
+msgid "grazie per averci scritto."
+msgstr ""
+
+#: src/Simplestform/Email.php:232
+msgid ""
+"Per registrare la tua richiesta devi confermare l'operazione cliccando sul "
+"bottone seguente"
+msgstr ""
+
+#: src/Simplestform/Email.php:234
+msgid ""
+"Se non si clicca sul link entro 24 ore, la tua richiesta verrà cancellata. "
+"Dovrai pertanto eseguire una nuova richiesta"
+msgstr ""
+
+#: src/Simplestform/Email.php:236
+msgid ""
+"Nel frattempo, qui sotto trovi una copia delle informazioni inserite. Se "
+"qualcuna di esse fosse errata, inviaci una nuova richiesta!"
+msgstr ""
+
+#: src/Simplestform/Email.php:238
+msgid "Conferma la tua richiesta"
+msgstr ""
+
+#: src/Simplestform/Email.php:290
+msgid "Richiesta confermata in data"
+msgstr ""
+
+#: src/Simplestform/Frontend.php:193
+msgid "Non inserire nulla nel campo \"Trap\""
+msgstr ""
+
+#: src/Simplestform/Frontend.php:357
+msgid "Alcuni campi obbligatori non sono stati compilati"
+msgstr ""
+
+#: src/Simplestform/Frontend.php:365
+msgid "L'email inserita non sembra corretta"
+msgstr ""
+
+#: src/Simplestform/Frontend.php:372
+msgid "L'accettazione privacy è obbligatoria"
+msgstr ""
+
+#: src/Simplestform/Frontend.php:403
+#, php-format
+msgid ""
+" Abbiamo ricevuto la tua richiesta ed una copia è stata inviata al tuo "
+"indirizzo %s. Se non fosse corretto, inviaci una nuova richiesta. Grazie! "
+msgstr ""
+
+#: views/admin/settings-api.php:3
+msgid "API key"
+msgstr ""
+
+#: views/admin/settings-api.php:9
+msgid "Chiave API"
+msgstr ""
+
+#: views/admin/settings-ga.php:4
+msgid "Come impostare un obiettivo su Google Analytics"
+msgstr ""
+
+#: views/admin/settings-ga.php:5
+msgid ""
+"Vuoi monitorare quante conversioni e quindi contatti ricevi dal tuo sito "
+"internet? Imposta un obiettivo su Google Analytics"
+msgstr ""
+
+#: views/admin/settings-ga.php:7
+msgid "Amministratore > Vista > Obiettivi"
+msgstr ""
+
+#: views/admin/settings-ga.php:8
+msgid "Premere \"Nuovo obiettivo\""
+msgstr ""
+
+#: views/admin/settings-ga.php:9
+msgid "IMPOSTAZIONE OBIETTIVO > Personalizzato > Continua"
+msgstr ""
+
+#: views/admin/settings-ga.php:10
+msgid "IMPOSTAZIONE OBIETTIVO > Nome > \"Contatti\""
+msgstr ""
+
+#: views/admin/settings-ga.php:11
+msgid "IMPOSTAZIONE OBIETTIVO > Tipo > Evento > Continua"
+msgstr ""
+
+#: views/admin/settings-ga.php:12
+msgid "IMPOSTAZIONE OBIETTIVO > Dettagli > Condizione"
+msgstr ""
+
+#: views/admin/settings-ga.php:14
+msgid "CATEGORIA > Deve essere lo stesso valore che usi qui"
+msgstr ""
+
+#: views/admin/settings-ga.php:15
+msgid "AZIONE > Deve essere lo stesso valore che usi qui"
+msgstr ""
+
+#: views/admin/settings-ga.php:16
+msgid "ETICHETTA > Deve essere lo stesso valore che usi qui"
+msgstr ""
+
+#: views/admin/settings-ga.php:19
+msgid "Al termine premere \"Salva\""
+msgstr ""
+
+#: views/admin/settings-ga.php:24
+msgid "UA Google Analytics (ID Monitoraggio)"
+msgstr ""
+
+#: views/admin/settings-ga.php:31
+msgid ""
+"Il codice del tuo Google Analytics (ID monitoraggio). Simile a UA-12345678-90"
+msgstr ""
+
+#: views/admin/settings-ga.php:49
+msgid "Dettagli obiettivo > Categoria"
+msgstr ""
+
+#: views/admin/settings-ga.php:56
+msgid "Potresti usare \"Form\""
+msgstr ""
+
+#: views/admin/settings-ga.php:75
+msgid "Dettagli obiettivo > Azione"
+msgstr ""
+
+#: views/admin/settings-ga.php:82
+msgid "Potresti usare \"Submit\""
+msgstr ""
+
+#: views/admin/settings-ga.php:101
+msgid "Dettagli obiettivo > Etichetta"
+msgstr ""
+
+#: views/admin/settings-ga.php:108
+msgid "Potresti usare \"Contatti\""
+msgstr ""
+
+#: views/admin/settings-generic.php:3
+msgid "Nome mittente"
+msgstr ""
+
+#: views/admin/settings-generic.php:11
+#, php-format
+msgid ""
+"Il nome che viene visualizzato nelle caselle email. Se vuoto, sarà "
+"utilizzato il nome del blog (\"%s\"). Ad esempio: %s <info@johndoe.com>"
+msgstr ""
+
+#: views/admin/settings-generic.php:31
+msgid "Email mittente"
+msgstr ""
+
+#: views/admin/settings-generic.php:39
+#, php-format
+msgid ""
+"L'email mittente. Se vuota, sarà utilizzata la mail amministrativa \"%s\". "
+"<strong>Da questa email</strong> parte la copia del modulo che la persona ha "
+"compilato (ed alla quale potrà anche rispondere). <strong>Assicurati di "
+"usarne una che leggi</strong>."
+msgstr ""
+
+#: views/admin/settings-generic.php:61
+msgid "Destinatario"
+msgstr ""
+
+#: views/admin/settings-generic.php:69
+#, php-format
+msgid ""
+"A chi inviare i form di contatto? Se vuota, sarà utilizzata la mail "
+"amministrativa \"%s\"."
+msgstr ""
+
+#: views/admin/settings-generic.php:91
+msgid "Oggetto (per l'amministratore del sito / principali destinatari)"
+msgstr ""
+
+#: views/admin/settings-generic.php:101
+#, php-format
+msgid "Richiesta di informazioni dal sito %s"
+msgstr ""
+
+#: views/admin/settings-generic.php:103
+msgid ""
+"L'oggetto della email che viene inviata ai destinatari principali ed ad "
+"eventuali destinatari in copia nascosta."
+msgstr ""
+
+#: views/admin/settings-generic.php:125
+msgid "Destinatari CCN"
+msgstr ""
+
+#: views/admin/settings-generic.php:132
+msgid "Destinatari in CCN separati con \",\" (virgola)."
+msgstr ""
+
+#: views/admin/settings-generic.php:149
+msgid "Link alla pagina privacy"
+msgstr ""
+
+#: views/admin/settings-generic.php:157
+msgid "Link alla pagina contenente la privacy."
+msgstr ""
+
+#: views/admin/settings.php:4
+msgid "Impostazioni"
+msgstr ""
+
+#: views/admin/settings.php:6
+msgid "Usa il seguente shortcode"
+msgstr ""
+
+#: views/admin/settings.php:23
+#, php-format
+msgid ""
+"Invia le email in modalità sicura. Installa il plugin <strong>%s</strong>."
+msgstr ""
+
+#: views/admin/settings.php:61
+msgid "Settings saved."
+msgstr ""
+
+#: views/frontend/alert.php:2
+msgid ""
+"Prima di poter usare il plugin, devi inserire le impostazioni obbligatorie. "
+"Vai nella pagina impostazioni del plugin"
+msgstr ""
+
+#: views/frontend/basic-form.php:124
+msgid "Richiesta"
+msgstr "Message"
+
+#: views/frontend/basic-form.php:142
+msgid ""
+"Autorizzo il trattamento dei miei dati, come riportato alla lett. A punti "
+"1,2 e 3 della policy privacy"
+msgstr "I agree to privacy terms, lett. A 1, 2 and 3 of policy privacy"
+
+#: views/frontend/basic-form.php:165
+msgid ""
+"Ho letto l'informativa privacy ed accetto le finalità previste (Lett. A,  "
+"punto 4)"
+msgstr "I agree to privacy terms, lett. A, point 4"
+
+#: views/frontend/basic-form.php:182
+msgid ""
+"Ho letto l'informativa privacy ed accetto le finalità previste (Lett. A,  "
+"punto 5)"
+msgstr "I agree to privacy terms, lett. A, point 5"
+
+#: views/frontend/basic-form.php:197
+msgid "Non inserire nulla in questo campo"
+msgstr ""
+
+#: views/frontend/basic-form.php:203
+msgid "Invia"
+msgstr "Send"
